@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
+plotly
+openai
+langchain-openai
+python-dotenv

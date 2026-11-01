@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments & Virtual Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+myenv/
+env.bak/
+venv.bak/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# IDE & Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Data files (Processed artifacts, keep raw templates or ignore large files if required)
+*.log
+
+# Streamlit local runtime cache
+.streamlit/
