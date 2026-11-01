@@ -35,7 +35,6 @@ st.set_page_config(
 def load_and_prepare_app_data():
     """Build or load scored portfolio with anomalies."""
     processed_path = os.path.join(
-        "complete_assignment",
         "data",
         "processed",
         "processed_loan_portfolio.csv",
